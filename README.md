@@ -9,9 +9,7 @@
 - Site is viewable at: https://henlowgg.github.io/my-super-special-portfolio/
 - Preview: ![plot](./assets/images/portfolio-preview.png)
 ## Credits
-- Leif E. Hetland for helping me to understand better the functionality of flex boxes.
-- Katana Zero for utilizing a link to their video game as it is an inspo for me to create something like it one day.
-- Spotify for utilizing a playlist as a website placeholder for the meantime.
+- Leif E. Hetland for helping me to understand better how to use raw HTML and CSS codes.
 - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide for the README layout.
 - https://choosealicense.com/licenses/mit/ for the copyright layout.
 ## License
