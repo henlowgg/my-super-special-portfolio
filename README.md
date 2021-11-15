@@ -7,7 +7,7 @@
 ## Usage
 - Github repo is viewable here: https://github.com/henlowgg/my-super-special-portfolio
 - Site is viewable at: https://henlowgg.github.io/my-super-special-portfolio/
-- Preview: ![plot](./assets/images/portfolio-preview.png)
+- Preview: ![plot](./assets/images/preview-2.png)
 ## Credits
 - Leif E. Hetland for helping me to understand better how to use raw HTML and CSS codes.
 - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide for the README layout.
