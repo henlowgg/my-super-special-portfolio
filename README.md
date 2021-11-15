@@ -1,8 +1,7 @@
 # My Portfolio
 ## Description
 - The goal of this Portfolio was to create an aesthetically pleasing and working site so potential employers and/or colleagues could view my work.
-- While grooming myself to become a sought after candidate in the future for the fields of software engineering and web development, it is going to require a vast knowledge of code and a great place to showcase my skills. If I am to showcase my skills, then I need a great portfolio. 
-- (Little Easter Egg There ^^^)
+- This portfolio is my attempt to showcase my skills and work with simple css and html stylings only.
 - Creating this portfolio page has vastly increased my knowledge regarding the differences and possibilities available to me by simply utilizing raw HTML and CSS codes.
 
 ## Usage
