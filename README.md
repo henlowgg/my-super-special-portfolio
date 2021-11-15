@@ -5,10 +5,9 @@
 - Creating this portfolio page has vastly increased my knowledge regarding the differences and possibilities available to me by simply utilizing raw HTML and CSS codes.
 
 ## Usage
-- Github repo is viewable here: https://github.com/henlowgg/portfolio
-- Site is viewable at: https://henlowgg.github.io/portfolio/
+- Github repo is viewable here: https://github.com/henlowgg/my-super-special-portfolio
+- Site is viewable at: https://henlowgg.github.io/my-super-special-portfolio/
 - Preview: ![plot](./assets/images/portfolio-preview.png)
-
 ## Credits
 - Leif E. Hetland for helping me to understand better the functionality of flex boxes.
 - Katana Zero for utilizing a link to their video game as it is an inspo for me to create something like it one day.
